@@ -1,4 +1,4 @@
-# Zyllabs - School Management System (on-going)
+# Next.js | ESLint | Typescript | Tailwind CSS - Getting started
 
 ## Table of contents
 
