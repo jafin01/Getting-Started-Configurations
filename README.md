@@ -52,7 +52,6 @@ module.exports = {
     'no-console': 'warn',
   },
 };
-
 ```
 
 Now you can run `npm run dev` to start the application in development server.
