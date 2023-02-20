@@ -23,6 +23,7 @@ To run this application:
 - After installing all the packages create `.eslintrc.js` file in the root directory
 - Paste the following configurations in the file
 
+```
 module.exports = {
   env: {
     browser: true,
@@ -52,6 +53,7 @@ module.exports = {
   },
 };
 
+```
 
 Now you can run `npm run dev` to start the application in development server.
 
