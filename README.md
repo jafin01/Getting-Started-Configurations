@@ -50,6 +50,8 @@ module.exports = {
     'import/prefer-default-export': 'off',
     '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     'no-console': 'warn',
+    'import/extensions': 'off',
+    'import/no-unresolved': 'off',
   },
 };
 ```
